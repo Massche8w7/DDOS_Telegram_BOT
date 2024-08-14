@@ -2,5 +2,7 @@ Flask
 PyRoxy
 python-telegram-bot==13.15
 requests
-#subprocess
+urllib3.contrib.appengine
+named
+subprocess
 #re
